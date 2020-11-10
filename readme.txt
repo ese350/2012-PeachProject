@@ -1,5 +1,5 @@
 Peach
 
-Perk Lun Lim | Connie Wu
+P L | Connie Wu
 
 Hello World
